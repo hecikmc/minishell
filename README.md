@@ -22,7 +22,7 @@ Minishell works as follows:
 * Handles " (double quote) to interpret metacharacters in the quoted sequence except for $ (dollar sign), whose value will be expanded to its assigned value in Minishell's environment variables.
 * Handles redirections:
     * < redirects input.
-    * > redirects output.
+    * \> redirects output.
     * "<<" expects a delimiter, then reads from input until a line contains only the entered delimiter.
     * ">>" redirects output in append mode.
 * Handles pipes (| character). The output of each command in the pipeline is connected via a pipe to the input of the next command. If we leave a pipe open, Minishell waits to receive the next command.
