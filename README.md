@@ -51,4 +51,3 @@ The program can be ran with the following instruction (withouth arguments):
 ```shell
 $> ./minishell
 ```
-```shell
