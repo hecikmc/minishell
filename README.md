@@ -1,7 +1,7 @@
 # Minishell
-
+<p align=center>
 ![ezgif com-video-to-gif](https://github.com/hecikmc/minishell/assets/121127625/d85043d9-02c2-49a0-adca-1034e506cf96)
-
+</p>
 
 ## Description 
 
