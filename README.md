@@ -1,5 +1,7 @@
 # Minishell
 
+<img width="836" alt="Screen Shot 2023-09-18 at 6 34 48 PM" src="https://github.com/hecikmc/minishell/assets/121127625/d7ffa05a-095e-4ad2-ad07-d30df6b6b3bc">
+
 ## Description 
 
 Program that replicates the behavior of a **simple bash**
@@ -42,3 +44,11 @@ Minishell works as follows:
     * env without options or arguments.
     * exit without options.
 
+## Usage
+
+The program can be ran with the following instruction (withouth arguments):
+
+```shell
+$> ./minishell
+```
+```shell
