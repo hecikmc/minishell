@@ -1,6 +1,7 @@
 # Minishell
 
-<img width="836" alt="Screen Shot 2023-09-18 at 6 34 48 PM" src="https://github.com/hecikmc/minishell/assets/121127625/d7ffa05a-095e-4ad2-ad07-d30df6b6b3bc">
+![ezgif com-video-to-gif](https://github.com/hecikmc/minishell/assets/121127625/d85043d9-02c2-49a0-adca-1034e506cf96)
+
 
 ## Description 
 
