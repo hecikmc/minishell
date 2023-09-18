@@ -1,0 +1,7 @@
+.vscode/
+a.out
+*.o
+*.a
+minishell
+readline.supp
+minishell.dSYM
